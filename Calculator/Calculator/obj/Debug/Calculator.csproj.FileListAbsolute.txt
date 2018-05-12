@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\Source\C#-WPF-Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+\\Mac\Home\Desktop\Source\C#-WPF-Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+\\Mac\Home\Desktop\Source\C#-WPF-Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Source\C#-WPF-Calculator\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\Source\C#-WPF-Calculator\Calculator\Calculator\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\Source\C#-WPF-Calculator\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+\\Mac\Home\Desktop\Source\C#-WPF-Calculator\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+\\Mac\Home\Desktop\Source\C#-WPF-Calculator\Calculator\Calculator\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\Source\C#-WPF-Calculator\Calculator\Calculator\obj\Debug\Calculator.g.resources
+\\Mac\Home\Desktop\Source\C#-WPF-Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+\\Mac\Home\Desktop\Source\C#-WPF-Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Source\C#-WPF-Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Source\C#-WPF-Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+\\Mac\Home\Desktop\Source\C#-WPF-Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
