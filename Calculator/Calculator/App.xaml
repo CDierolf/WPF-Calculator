@@ -4,6 +4,46 @@
              xmlns:local="clr-namespace:Calculator"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+
+        <SolidColorBrush x:Key="numbersColor"
+                        Color="#444444"/>
+        
+        <SolidColorBrush x:Key="operatorsColor"
+                        Color="Orange"/>
+        
+        <SolidColorBrush x:Key="additionalColor"
+                         Color="LightGray" />
+        
+        <SolidColorBrush x:Key="buttonsFontColor"
+                        Color="White"/>
+
+        <SolidColorBrush x:Key="additionalButtonsFontColor"
+                         Color="Black" />
+
+        <Style TargetType="Button" x:Key="commonButton">
+            <Setter Property="Foreground" Value="{StaticResource buttonsFontColor}"/>
+            <Setter Property="FontSize" Value="25" />
+            <Setter Property="Margin" Value="5" />
+        </Style>
+
+        <Style TargetType="Button" x:Key="numberButtonsStyle" BasedOn="{StaticResource commonButton}">
+            <Setter Property="Background" Value="{StaticResource numbersColor}" />
+            <Setter Property="Foreground" Value="{StaticResource buttonsFontColor}" />
+            <Setter Property="Margin" Value="5" />
+        </Style>
+        
+        <Style TargetType="Button" x:Key="operatorButtonsStyle" BasedOn="{StaticResource numberButtonsStyle}">
+            <Setter Property="Background" Value="{StaticResource operatorsColor}" />
+        </Style>
+
+        <Style TargetType="Button" x:Key="additionalButtonsStyle" BasedOn="{StaticResource numberButtonsStyle}">
+            <Setter Property="Background" Value="{StaticResource additionalColor}" />
+            <Setter Property="Foreground" Value="{StaticResource additionalButtonsFontColor}" />
+        </Style>
+
+        <Style TargetType="Label">
+            <Setter Property="FontSize" Value="70"/>
+        </Style>
+
     </Application.Resources>
 </Application>
